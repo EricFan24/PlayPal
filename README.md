@@ -1,7 +1,9 @@
 ## Play-pal: A Sport Club Directory And A Platform For Player-Finding
 
 *Author: Eric Fan*
+
 *Date: 10/31/2020*
+
 *Indevidual Project for COMS W170: User Interface Design, Columbia University*
 
 # Active Links/Interactions
