@@ -1,6 +1,6 @@
 ## Play-pal: A Sport Club Directory And A Platform For Player-Finding
 
-Demo is hosted here: https://ericfan24.github.io/PlayPal/index.html
+Play with the demo here: https://ericfan24.github.io/PlayPal/index.html
 
 *Author: Eric Fan*
 
