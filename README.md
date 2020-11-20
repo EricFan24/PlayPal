@@ -6,8 +6,6 @@ Play with the demo here: https://ericfan24.github.io/PlayPal/index.html
 
 *Date: 10/31/2020*
 
-*Indevidual Project for COMS W170: User Interface Design, Columbia University*
-
 # Active Links/Interactions
 - Home Page: table tennis option (link to Results Page)
 - Home Page: show everything (link to Results Page)
